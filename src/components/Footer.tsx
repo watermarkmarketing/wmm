@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
             </a>
             <div className="border-b border-b-wm-light-grey my-8"></div>
 
-            <h3 className="text-icon leading-icon barlow-extrealight text-wm-footer-title-grey">
+            <h3 className="text-icon leading-icon barlow-extralight text-wm-footer-title-grey">
               Want to learn?
             </h3>
             <p className="mt-6 mb-2 barlow-light text-icon leading-icon">
@@ -118,7 +118,7 @@ const Footer: React.FC = () => {
               <br />
               Gautam Budh Nagar, Noida,
               <br />
-              Uttar Pradesh – 201
+              Uttar Pradesh – 201 301
             </address>
           </div>
           <div>
