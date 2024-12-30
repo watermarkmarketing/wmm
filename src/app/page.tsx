@@ -96,7 +96,7 @@ export default function Home() {
       <FullScreenMediaSection
         title="The simplest can often be the most surprising"
         description="We believe in the need to be different.It’s the way we work and live."
-        mediaUrl="https://registrationexpress.in/Watermark_Animation_Videos/Pac_man_2d_motion_.mp4"
+        mediaUrl="https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Pac_man_2d_motion_.mp4"
         backgroundColor="bg-neutral-200"
         mediaLeft={false}
         isPacVideo={true}
@@ -104,7 +104,7 @@ export default function Home() {
       <FullScreenMediaSection
         title="The world changes and so does your brand"
         description="We work our way around it;strategizing, designing and executing."
-        mediaUrl="https://registrationexpress.in/Watermark_Animation_Videos/mushroom_annimation_for_web_2.mp4"
+        mediaUrl="https://register-now.in/watermarkcdn/Watermark_Animation_Videos/mushroom_annimation_for_web_2.mp4"
         backgroundColor="bg-white"
         mediaLeft={true}
         isPacVideo={false}

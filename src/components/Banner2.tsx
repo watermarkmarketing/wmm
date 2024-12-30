@@ -267,7 +267,7 @@ nav li:hover{
     poster=&quot;/path-to-your-poster.jpg&quot;
 >
     <source
-        src=&quot;https://registrationexpress.in/Watermark_Animation_Videos/Wwm_Header_Animation_clip.mp4&quot;
+        src=&quot;https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Wwm_Header_Animation_clip.mp4&quot;
         type=&quot;video/mp4&quot;
     />
 </video>

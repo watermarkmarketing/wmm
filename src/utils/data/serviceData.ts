@@ -32,7 +32,7 @@ export const serviceData: ServiceData = {
     ],
     desc: "Client Acquisition, Client Servicing, Relationship Management",
     videoUrl:
-      "https://registrationexpress.in/Watermark_Animation_Videos/Air_Baloon_2d_Animation.mp4",
+      "https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Air_Baloon_2d_Animation.mp4",
   },
   "Content And Creative": {
     content: [

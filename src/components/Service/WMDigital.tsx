@@ -99,7 +99,7 @@ const WMDigital: React.FC<WMDigitalProps> = ({ content }) => {
           >
             <source
               src={
-                "https://registrationexpress.in/Watermark_Animation_Videos/Owl_2.mp4"
+                "https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Owl_2.mp4"
               }
               type="video/mp4"
             />

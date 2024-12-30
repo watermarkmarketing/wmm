@@ -126,7 +126,7 @@ const About: React.FC = () => {
               >
                 <source
                   src={
-                    "https://registrationexpress.in/Watermark_Animation_Videos/Snow_globe_animation_for_Web2.mp4"
+                    "https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Snow_globe_animation_for_Web2.mp4"
                   }
                   type="video/mp4"
                 />

@@ -34,7 +34,7 @@ const Banner = () => {
           poster="/path-to-your-poster.jpg"
         >
           <source
-            src="https://registrationexpress.in/Watermark_Animation_Videos/Wwm_Header_Animation_clip.mp4"
+            src="https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Wwm_Header_Animation_clip.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
