@@ -216,7 +216,7 @@ const Footer: React.FC = () => {
           href="https://www.watermarkexperience.com/"
           className="barlow-extralight text-copyright leading-copyright hover:text-cyan-300"
         >
-          &copy; 2024 - watermarkexperience.com. All rights reserved
+          &copy; 2025 - watermarkexperience.com. All rights reserved
         </Link>
         <div
           className="hidden absolute bottom-0 inset-0 md:flex justify-center items-center"

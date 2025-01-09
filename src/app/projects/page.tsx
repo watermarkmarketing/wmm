@@ -31,13 +31,6 @@ const items: ProjectData[] = [
 		category: 'all'
 	},
 	{
-		title: 'Project 1',
-		width: 900,
-		height: 646,
-		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Cloud_Stage-1.jpg',
-		category: 'all'
-	},
-	{
 		title: 'Project 3',
 		width: 900,
 		height: 646,
@@ -91,6 +84,34 @@ const items: ProjectData[] = [
 		width: 900,
 		height: 646,
 		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Venue-11-1.jpg',
+		category: '3d graphic'
+	},
+	{
+		title: 'Project 6',
+		width: 900,
+		height: 506,
+		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Dell-Alienware-ComicCon-Hyd1.jpg',
+		category: '3d graphic'
+	},
+	{
+		title: 'Project 7',
+		width: 900,
+		height: 506,
+		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Dell-Alienware-ComicCon-Hyd2.jpg',
+		category: '3d graphic'
+	},
+	{
+		title: 'Project 8',
+		width: 900,
+		height: 506,
+		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Dell-Alienware-Multicity-GameBooth1.jpg',
+		category: '3d graphic'
+	},
+	{
+		title: 'Project 9',
+		width: 900,
+		height: 506,
+		src: 'https://watermarkexperience.in/wp-content/uploads/2023/11/Dell-Alienware-Multicity-GameBooth2.jpg',
 		category: '3d graphic'
 	},
 	{

@@ -70,7 +70,7 @@ const ServiceFooter: React.FC = () => {
         </div>
 
         <div className="text-center text-gray-500 text-xs mt-6 barlow-regular">
-          © 2024 Watermark. All rights reserved.
+          © 2025 Watermark. All rights reserved.
         </div>
       </div>
     </footer>
