@@ -35,7 +35,7 @@ const ServiceFooter: React.FC = () => {
               <FaLinkedinIn />
             </a>
             <a
-              href="https://www.facebook.com/watermarkmarketing"
+              href="https://www.facebook.com/watermarkexperience"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded p-2 border border-gray-400 hover:text-cyan-500"
@@ -51,7 +51,7 @@ const ServiceFooter: React.FC = () => {
               <FaXTwitter />
             </a>
             <a
-              href="https://www.instagram.com/watermarkmarketing/"
+              href="https://www.instagram.com/watermarkexperience/"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded p-2 border border-gray-400 hover:text-cyan-500"

@@ -148,7 +148,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center mb-6 md:mb-0">
             <div className="flex justify-center">
               <Link
-                href="https://www.facebook.com/watermarkmarketing"
+                href="https://www.facebook.com/watermarkexperience"
                 className="bg-black rounded-full p-4 mr-2 hover:text-cyan-500"
               >
                 <FaFacebookF />
@@ -172,7 +172,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="flex justify-center">
               <Link
-                href="https://www.instagram.com/watermarkmarketing/"
+                href="https://www.instagram.com/watermarkexperience/"
                 className="bg-black rounded-full p-4 mr-2 hover:text-cyan-500"
               >
                 <FaInstagram />
