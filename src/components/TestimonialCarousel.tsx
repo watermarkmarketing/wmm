@@ -6,7 +6,7 @@ const TestimonialCarousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const testimonials = [
     "We often dive below the surface to pivot our focus from you to your customer and sometimes your brand essence, creating satisfaction and impact that will leave you coming back for more. There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all.",
-    "There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all. There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all.",
+    "There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all.",
     "Emotion is at the heart of every strategy, idea, design, and execution that we turn out. It’s not just the future of Industry 4.0. It’s at the heart of humanity. There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all.",
     "We make it a point to have fun and a few good laughs along the way, while striving to achieve perfection in everything we do. There are many paradigm shifts taking place across the globe that affect any organisation. We will stand by your side through the thick and thin of it all.",
   ];
