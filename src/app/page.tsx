@@ -95,7 +95,7 @@ export default function Home() {
       {/* <Banner2 /> */}
       <FullScreenMediaSection
         title="The simplest can often be the most surprising"
-        description="We believe in the need to be different.It’s the way we work and live."
+        description="We believe in the need to be different. It’s the way we work and live."
         mediaUrl="https://register-now.in/watermarkcdn/Watermark_Animation_Videos/Pac_man_2d_motion_.mp4"
         backgroundColor="bg-neutral-200"
         mediaLeft={false}

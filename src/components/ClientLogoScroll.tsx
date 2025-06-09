@@ -185,7 +185,7 @@ const ClientLogoScroll: React.FC = () => {
       <div className="container flex flex-col md:flex-row justify-center items-center text-wm-light-grey mx-auto">
         <div className="w-full md:w-3/12 md:border-r md:border-r-wm-light-grey pr-4">
           <h2 className="text-4xl md:text-section-title md:leading-section-title font-light mb-2">
-            See who <br />
+            See who<br />
             <span className="font-bold">we work</span> with
           </h2>
           <p className="text-lg md:text-desc md:leading-desc barlow-extralight">
