@@ -49,12 +49,6 @@ const servicesData = [
     iconSrcBlk: "/wmdigital-black.svg",
     link: "/service/wm-digital",
   },
-  {
-    title: "WMDigital2",
-    iconSrc: "/wmdigital.svg",
-    iconSrcBlk: "/wmdigital-black.svg",
-    link: "/service/wm-digital2",
-  },
 ];
 
 export default function Home() {
