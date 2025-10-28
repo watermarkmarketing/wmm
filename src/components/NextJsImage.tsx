@@ -9,11 +9,13 @@ export default function NextJsImage({
   return (
     <div style={{ ...wrapperStyle, position: "relative" }}>
       <Image
-        fill
         src={photo.src}
-        placeholder={"blurDataURL" in photo ? "blur" : undefined}
-        {...{ alt, title, sizes, className, onClick }}
-        className="rounded-lg shadow-lg"
+        alt={alt ?? photo.title ?? ""}
+        sizes={sizes}
+        fill
+        className={`rounded-lg shadow-lg ${className || ""}`}
+        onClick={onClick}
+        priority={false}
       />
     </div>
   );
