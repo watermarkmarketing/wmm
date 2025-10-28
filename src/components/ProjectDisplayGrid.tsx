@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import Link from "https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/";
+import Link from "next/link";
 import NextJsImage from '@/components/NextJsImage';
 import PhotoAlbum from "react-photo-album";
 import Lightbox from "yet-another-react-lightbox";
