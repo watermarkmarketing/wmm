@@ -6,7 +6,7 @@ import Banner from "@/components/Banner";
 import Header from "@/components/Header";
 import FullScreenMediaSection from "@/components/FullScreenMediaSection";
 import ServicesSection from "@/components/ServicesSection";
-import ProjectDisplayGrid from "@/components/ProjectDisplayGrid";
+
 import ClientLogoScroll from "@/components/ClientLogoScroll";
 import MenuDrawer from "@/components/MenuDrawer";
 import TriggerButton from "@/components/TriggerButton";
