@@ -25,37 +25,37 @@ const projects: ProjectData[] = [
 		title: 'Project 1',
 		width: 900,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Cloud_Stage-1.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Cloud_Stage-1.jpg'
 	},
 	{
 		title: 'Project 2',
 		width: 900,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/WMM-Creative-Creds-V7-137-2.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/WMM-Creative-Creds-V7-137-2.jpg'
 	},
 	{
 		title: 'Project 3',
 		width: 900,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Stall_002-1.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Stall_002-1.jpg'
 	},
 	{
 		title: 'Project 4',
 		width: 900,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Venue-11-1.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/Venue-11-1.jpg'
 	},
 	{
 		title: 'Project 5',
 		width: 1800,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/tata1.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/tata1.jpg'
 	},
 	{
 		title: 'Project 6',
 		width: 900,
 		height: 646,
-		src: 'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/GaslaStage-02nd-theme_001-A-copy.jpg'
+		src:'https://register-now.in/watermarkcdn/Watermark_Animation_Videos/images/GaslaStage-02nd-theme_001-A-copy.jpg'
 	}
 ]
 
