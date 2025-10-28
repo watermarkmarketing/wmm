@@ -1,17 +1,5 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import Link from "next/link";
-import NextJsImage from '@/components/NextJsImage';
-import PhotoAlbum from "react-photo-album";
-import Lightbox from "yet-another-react-lightbox";
-import "yet-another-react-lightbox/styles.css";
-import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
-import Slideshow from "yet-another-react-lightbox/plugins/slideshow";
-import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
-import Zoom from "yet-another-react-lightbox/plugins/zoom";
-import "yet-another-react-lightbox/plugins/thumbnails.css";
-
 
 
     <div className="min-h-screen flex flex-col justify-center py-12 bg-wm-grey">
@@ -25,21 +13,7 @@ import "yet-another-react-lightbox/plugins/thumbnails.css";
 
 Please revisit after sometime to check it out!
         </p>
-        <PhotoAlbum
-          layout="rows"
-          photos={projects}
-          defaultContainerWidth={1200}
-          sizes={{ size: "calc(100vw - 240px)" }}
-          renderPhoto={NextJsImage}
-          onClick={({ index }) => setIndex(index)}
-        />
-        <Lightbox
-          slides={projects}
-          open={index >= 0}
-          index={index}
-          close={() => setIndex(-1)}
-          plugins={[Fullscreen, Slideshow, Thumbnails, Zoom]}
-        />
+        
         
       </div>
     </div>
