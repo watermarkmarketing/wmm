@@ -110,7 +110,7 @@ export default function Home() {
         isPacVideo={false}
       />
       <ServicesSection services={servicesData} />
-      <ProjectDisplayGrid />
+     
       <ClientLogoScroll />
       <Footer />
     </>
